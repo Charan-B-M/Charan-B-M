@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Charan B M
 
-<!--
-**Charan-B-M/Charan-B-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics & Product Management enthusiast specializing in data-driven decision making, business process optimization, and product strategy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical & Management Toolkit
+* **Data Analytics & Databases:** SQL, Python (Pandas), Microsoft Excel (Advanced Formulas & Modeling)
+* **Visualization & Reporting:** Power BI, Dashboard Design
+* **Product Management & Strategy:** Requirements Gathering (PRD/BRD), User Stories, Agile/Scrum, Design Thinking Frameworks
+
+---
+
+### 📊 Featured Projects
+* 🚀 **[Project 1 Title]** – *Coming Soon*  
+  *(Soon)*
+* 📈 **[Project 2 Title]** – *Coming Soon*  
+  *(Soon)*
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** www.linkedin.com/in/charanbmpes
